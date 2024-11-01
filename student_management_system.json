@@ -1,0 +1,1 @@
+{"students": {"12345": {"name": "Huda", "age": 23, "address": "My", "student_id": "12345", "grades": {"ICT": "A"}, "courses": ["ICT"]}, "234": {"name": "Rakib", "age": 23, "address": "Bd", "student_id": "234", "grades": {}, "courses": []}}, "courses": {"BIT12": {"course_name": "ICT", "course_code": "BIT12", "instructor": "Jasim", "students": ["12345"]}}}
